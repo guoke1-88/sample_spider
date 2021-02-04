@@ -1,2 +1,2 @@
-# simple_spider
+# simple-spider
 简单爬虫
